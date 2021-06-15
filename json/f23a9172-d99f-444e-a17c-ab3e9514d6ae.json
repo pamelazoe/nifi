@@ -1,0 +1,41 @@
+[ {
+  "emp_no" : 10001,
+  "first_name" : "Georgi",
+  "last_name" : "Facello"
+}, {
+  "emp_no" : 10006,
+  "first_name" : "Anneke",
+  "last_name" : "Preusig"
+}, {
+  "emp_no" : 10008,
+  "first_name" : "Saniya",
+  "last_name" : "Kalloufi"
+}, {
+  "emp_no" : 10012,
+  "first_name" : "Patricio",
+  "last_name" : "Bridgland"
+}, {
+  "emp_no" : 10014,
+  "first_name" : "Berni",
+  "last_name" : "Genin"
+}, {
+  "emp_no" : 10018,
+  "first_name" : "Kazuhide",
+  "last_name" : "Peha"
+}, {
+  "emp_no" : 10021,
+  "first_name" : "Ramzi",
+  "last_name" : "Erde"
+}, {
+  "emp_no" : 10022,
+  "first_name" : "Shahaf",
+  "last_name" : "Famili"
+}, {
+  "emp_no" : 10023,
+  "first_name" : "Bojan",
+  "last_name" : "Montemayor"
+}, {
+  "emp_no" : 10025,
+  "first_name" : "Prasadram",
+  "last_name" : "Heyers"
+} ]
